@@ -2,11 +2,13 @@
 
 This page will help you get started with github-explorer. You'll be up and running in a jiffy!
 
-## "Welcome to the Github Explorer documentation!"
+## 🤓 Welcome to the Github Explorer documentation!
 
 As you should to know, this is a simple project make with [GitHub API](https://api.github.com/) where users can search for repositories and see details like number of Stars, number of Forks, number of Issues and a list with all Issues.
 
 Before we start this awesome project, i want you see what you will do (no writed descriptions, this is too annoying 🤭).
+
+---
 
 **Main page:**
 
@@ -24,8 +26,8 @@ By clicking in this result, you will be redirected to the repository details pag
 Here, you can see the details i tell you, in addition, you can enter in any issue to see it on GitHub platform.
 And this is our end point - yet 😏.
 
-## What's Next
+## ❓ What's Next
 
 Now, to proceed with the installation of tools, all needed dependencies, run the project and make your changes, see the next page!
 
-[Running the project]()
+[🚀 Running the project](https://github.com/danilo-vieira/github-explorer/blob/master/README-pages/v1.0/Documentation/running-the-project.md)
