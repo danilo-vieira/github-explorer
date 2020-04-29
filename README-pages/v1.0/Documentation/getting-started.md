@@ -1,4 +1,7 @@
-A project make with two
+# Getting Started with github-explorer
+
+This page will help you get started with github-explorer. You'll be up and running in a jiffy!
+
 [block:api-header]
 {
   "title": "Welcome to the Github Explorer documentation!"
@@ -10,22 +13,9 @@ As you should to know, this is a simple project make with [GitHub API](https://a
 Before we start this awesome project, i want you see what you will do (no writed descriptions, this is too annoying 🤭).
 
 **Main page:**
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/8b6837c-Anotao_2020-04-28_234918.png",
-        "Anotação 2020-04-28 234918.png",
-        1365,
-        623,
-        "#e9edef"
-      ],
-      "caption": ""
-    }
-  ]
-}
-[/block]
+
+![](https://files.readme.io/8b6837c-Anotao_2020-04-28_234918.png)
+
 In this page you can just type "USER_NAME/REPOSITORY_TITLE" and click on search button.
 Then you will see the result bellow search input:
 [block:image]
