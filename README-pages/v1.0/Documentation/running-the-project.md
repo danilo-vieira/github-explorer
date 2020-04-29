@@ -8,7 +8,7 @@ ATENTION: The following steps is for **Linux**. If you have another SO, just sea
 ## 📌 Index
 * [Installing Tools](#installing-tools)
   * [Installing NVM](#installing-nvm)
-  * [Installing Node.js](#installing-node.js)
+  * [Installing Node.js](#installing-nodejs)
   * [Installing Yarn](#installing-yarn)
 * [Running the Project](#🚀-running-the-project)
   * [Making a clone](#make-a-clone)
