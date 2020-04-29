@@ -6,14 +6,14 @@ So, ensure to follow the steps correctly.
 ATENTION: The following steps is for **Linux**. If you have another SO, just search how to make same steps for you.
 
 ## 📌 Index
-* [Installing Tools](#-installing-tools)
-  * [Installing NVM](#-installing-nvm)
-  * [Installing Node.js](#-installing-node.js)
-  * [Installing Yarn](#-installing-yarn)
-* [Running the Project](#-🚀-running-the-project)
-  * [Making a clone](#-make-a-clone)
-  * [Opening the project](#-opening-the-project)
-  * [Initializing the project](#-initializing-the-project)
+* [Installing Tools](#installing-tools)
+  * [Installing NVM](#installing-nvm)
+  * [Installing Node.js](#installing-node.js)
+  * [Installing Yarn](#installing-yarn)
+* [Running the Project](#🚀-running-the-project)
+  * [Making a clone](#make-a-clone)
+  * [Opening the project](#opening-the-project)
+  * [Initializing the project](#initializing-the-project)
 
 ### **Installing NVM**
 
