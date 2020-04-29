@@ -1,12 +1,4 @@
----
-title: "Getting Started with github-explorer"
-slug: "getting-started"
-excerpt: "This page will help you get started with github-explorer. You'll be up and running in a jiffy!"
-hidden: false
-createdAt: "2020-04-29T01:14:49.955Z"
-updatedAt: "2020-04-29T03:21:04.336Z"
----
-A project make with two 
+A project make with two
 [block:api-header]
 {
   "title": "Welcome to the Github Explorer documentation!"
@@ -17,7 +9,7 @@ As you should to know, this is a simple project make with [GitHub API](https://a
 
 Before we start this awesome project, i want you see what you will do (no writed descriptions, this is too annoying 🤭).
 
-**Main page:** 
+**Main page:**
 [block:image]
 {
   "images": [

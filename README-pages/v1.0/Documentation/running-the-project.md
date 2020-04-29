@@ -1,10 +1,3 @@
----
-title: "Running the project"
-slug: "running-the-project"
-hidden: false
-createdAt: "2020-04-29T01:14:49.036Z"
-updatedAt: "2020-04-29T04:12:35.312Z"
----
 Our first step is make sure you have all tools avaliable on your computer!
 So, ensure to follow the steps correctly:
 
@@ -26,7 +19,7 @@ To this, you have two options:
 
 Now we've all we need to start executing our project. This is so exciting!
 
-* First, make a local clone of this repository: 
+* First, make a local clone of this repository:
 You can just download by the green button on right top [this page](https://github.com/danilo-vieira/github-explorer).
 
 * Open the root directory of project
@@ -34,7 +27,7 @@ Now, open this directory with your IDE ([Visual Studio Code](https://code.visual
 
 * With the terminal run:
 `yarn`
-Yes, just it. This will install all needed dependencies. Take a break and drink a coffee while waiting ☕😋. 
+Yes, just it. This will install all needed dependencies. Take a break and drink a coffee while waiting ☕😋.
 
 * Finally! initializing the project:
 To this you can run `yarn start`
@@ -42,7 +35,7 @@ Your default browser will be opened on "http://localhost:3000" and here is our m
 
 After this, you're free to make changes, add features, fix some bug. Just make a pull request if you want to share your idea with me and make this project better!
 
-Make with ❤ by [danilo-vieira](https://github.com/danilo-vieira/) 
+Make with ❤ by [danilo-vieira](https://github.com/danilo-vieira/)
 
 Social medias:
 [Linkedin]( https://www.linkedin.com/in/danilo-vieira-da-silva-140019125/)
