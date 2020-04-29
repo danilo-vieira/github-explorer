@@ -3,7 +3,7 @@ So, ensure to follow the steps correctly:
 
 ATENTION: The following steps is for **Linux**. If you have another SO, just search how to make same steps for you.
 
-  * **Installing NVM: **
+  * **Installing NVM:**
 All documentation (including for Windows can be found at [official repository of NVM](https://github.com/nvm-sh/nvm#installing-and-updating))
 Open your terminal and type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash`
 
