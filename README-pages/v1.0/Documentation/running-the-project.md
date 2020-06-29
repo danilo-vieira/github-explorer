@@ -73,4 +73,4 @@ After this, you're free to make changes, add features, fix some bug. Just make a
 Developed with ❤ by [Danilo Vieira](https://github.com/danilo-vieira/)
 
 Social medias:
-[Linkedin](https://www.linkedin.com/in/danilo-vieira-da-silva-140019125/)
+[Linkedin](https://www.linkedin.com/in/vieira-danilo/)
